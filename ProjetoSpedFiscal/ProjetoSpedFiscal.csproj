@@ -34,6 +34,10 @@
     <Compile Include="Blocos\Bloco0\Registro0000.cs" />
     <Compile Include="Blocos\BlocoC\RegistroC001.cs" />
     <Compile Include="Blocos\BlocoC\RegistroC100.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC101.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC105.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC110.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC111.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Blocos\" />
