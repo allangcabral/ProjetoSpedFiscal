@@ -44,6 +44,12 @@
     <Compile Include="Blocos\BlocoC\RegistroC115.cs" />
     <Compile Include="Blocos\BlocoC\RegistroC116.cs" />
     <Compile Include="Blocos\BlocoC\RegistroC120.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC130.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC140.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC141.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC160.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC165.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC170.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Blocos\" />
