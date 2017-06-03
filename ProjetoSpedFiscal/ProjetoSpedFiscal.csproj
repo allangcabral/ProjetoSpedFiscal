@@ -58,11 +58,21 @@
     <Compile Include="Blocos\BlocoC\RegistroC177.cs" />
     <Compile Include="Blocos\BlocoC\RegistroC178.cs" />
     <Compile Include="Blocos\BlocoC\RegistroC179.cs" />
+    <Compile Include="Blocos\BlocoH\RegistroH001.cs" />
+    <Compile Include="Blocos\BlocoH\RegistroH005.cs" />
+    <Compile Include="Blocos\BlocoH\RegistroH010.cs" />
+    <Compile Include="Blocos\BlocoH\RegistroH020.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Blocos\" />
     <Folder Include="Blocos\Bloco0\" />
     <Folder Include="Blocos\BlocoC\" />
+    <Folder Include="Blocos\BlocoD\" />
+    <Folder Include="Blocos\BlocoE\" />
+    <Folder Include="Blocos\BlocoG\" />
+    <Folder Include="Blocos\BlocoH\" />
+    <Folder Include="Blocos\BlocoK\" />
+    <Folder Include="Blocos\Bloco1\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
