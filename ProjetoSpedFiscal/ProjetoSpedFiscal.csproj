@@ -55,6 +55,9 @@
     <Compile Include="Blocos\BlocoC\RegistroC173.cs" />
     <Compile Include="Blocos\BlocoC\RegistroC174.cs" />
     <Compile Include="Blocos\BlocoC\RegistroC175.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC177.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC178.cs" />
+    <Compile Include="Blocos\BlocoC\RegistroC179.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Blocos\" />
