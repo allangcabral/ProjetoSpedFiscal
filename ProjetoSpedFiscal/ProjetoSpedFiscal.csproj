@@ -64,6 +64,8 @@
     <Compile Include="Blocos\BlocoH\RegistroH020.cs" />
     <Compile Include="Blocos\BlocoD\RegistroD001.cs" />
     <Compile Include="Blocos\BlocoD\RegistroD100.cs" />
+    <Compile Include="Blocos\BlocoD\RegistroD101.cs" />
+    <Compile Include="Blocos\BlocoD\RegistroD110.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Blocos\" />
